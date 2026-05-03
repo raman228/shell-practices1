@@ -11,7 +11,9 @@
 PERSON1=John
 PERSON2=Raheem
 
-echo "$PERSON1:: $PERSON2, How are you ?
-echo "$PERSON2:: $PERSON1, I am fine. How are you ?
-echo "$PERSON1:: what are you learning recently ?
-echo "$PERSON2:: I am learning shell scripting $PERSON1
+echo "$PERSON1:: $PERSON2, How are you ?"
+echo "$PERSON2:: $PERSON1, I am fine. How are you ?"
+echo "$PERSON1:: what are you learning recently ?"
+echo "$PERSON2:: I am learning shell scripting $PERSON1"
+
+
